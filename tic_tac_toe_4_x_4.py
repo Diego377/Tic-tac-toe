@@ -178,7 +178,7 @@ def terminal_test(state, player):
 
 def choose_ai():
     while True:
-        sys.stdout.write("Choose AI. [1/2/3/4]\n1. Random\n2. Minimax\n3. Full Alpha-Beta\n4. Alpha-Beta with Cutoff\n> ")
+        sys.stdout.write("Choose AI. [1-2-3-4]\n1. Random\n2. Minimax\n3. Full Alpha-Beta\n4. Alpha-Beta with Cutoff\n> ")
         answer = input().lower()
         if answer == "1":
             return 1

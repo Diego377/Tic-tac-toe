@@ -15,7 +15,7 @@ line_thickness = 3
 # open pygame window
 def open_window():
     screen = pygame.display.set_mode((window_x,window_y))
-    pygame.display.set_caption('Laura\'s Tic-Tac-Toe')
+    pygame.display.set_caption('Tic-Tac-Toe')
     return screen
 
 # create game board

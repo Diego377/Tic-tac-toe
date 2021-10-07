@@ -9,7 +9,7 @@ from ai_4_x_4 import *
 
 pygame.init()
 
-print("\nWelcome to Laura\'s Tic-Tac-Toe!\n")
+print("\nWelcome to Tic-Tac-Toe!\n")
 
 while True:
     

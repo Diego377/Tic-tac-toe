@@ -3,7 +3,7 @@
 # tic-tac-toe
 ## Members
 * Jose Carlos Camacho Salazar
-* Diego Delgadillo
+* Diego Delgadillo Cabrera
 * Sebastian Lazarte Catellon
 
 # Problem Description
